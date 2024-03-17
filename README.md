@@ -14,10 +14,9 @@ If you're new to R programming, don't worry! Here are some steps to get you star
 
 3. **Clone or Download this Repository**: You can clone this repository to your local machine using the following command:
 
-   ```
+ ```
     git clone https://github.com/fab-c14/R-Programming.git
     cd R-Programming
-   
-  ```
-> Recommendation
+ ```
+ > Recommendation
 use these files when your exams are near
